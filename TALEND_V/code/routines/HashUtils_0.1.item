@@ -17,7 +17,6 @@ public class HashUtils {
                 hexString.append(hex);
             }
             return hexString.toString();
-
         } catch (Exception e) {
             return null;
         }
