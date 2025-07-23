@@ -1,5 +1,20 @@
 [ {
   "baseItem" : {
+    "id" : "_FARtUGejEfCIQblZCQ2hzw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_TMcjAGehEfCIQblZCQ2hzw",
+    "version" : "Latest",
+    "type" : "joblet"
+  }, {
+    "id" : "HashUtil",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_XkjmIGOYEfCZ3PQzV0KdoQ",
     "version" : "0.1",
     "type" : "job"
@@ -32,6 +47,17 @@
   },
   "relatedItems" : [ {
     "id" : "HashUtils",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_TMcjAGehEfCIQblZCQ2hzw",
+    "version" : "0.1",
+    "type" : "joblet"
+  },
+  "relatedItems" : [ {
+    "id" : "HashUtil",
     "version" : "Latest",
     "type" : "routine"
   } ]
